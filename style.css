@@ -2,11 +2,12 @@ body {
     font-family: sans-serif;
     background-color:yellow;
 }
-a{
+a:hover{
     padding:100px;
     background-color:white;
     margin:70px;
     text-align:center;
+    color:yellow
 }
 h1{
     text-align:center;
