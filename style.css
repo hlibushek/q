@@ -1,13 +1,15 @@
 body {
     font-family: sans-serif;
-    background-color:lightyelow
+    background-color:yellow;
 }
 a{
     padding:20px;
     background-color:white;
+    margin:500px
 }
 h1{
     text-align:center;
     background-color:royalblue
-    border-radius:10px
+    border-radius:10px;
+    margin:300px
 }
