@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     background-color:yellow;
 }
-a:hover{
+a{
     padding:100px;
     background-color:white;
     margin:70px;
@@ -16,4 +16,7 @@ h1{
     margin:300px;
     padding:20px;
     text:150px;
+}
+a:hover{
+     color:yellow
 }
