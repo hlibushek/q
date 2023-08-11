@@ -3,7 +3,7 @@ body {
     background-color:yellow;
 }
 a{
-    padding:20px;
+    pading:20px;
     background-color:white;
     margin:500px
 }
@@ -11,5 +11,6 @@ h1{
     text-align:center;
     background-color:royalblue
     border-radius:10px;
-    margin:300px
+    margin:300px;
+    pading:50px;
 }
