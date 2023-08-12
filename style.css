@@ -9,8 +9,8 @@ a{
     text-align:center;
 }
 a:hover {
-    color: darkorange;
-    background-color: lightblue;
+    color: yellow;
+    background-color: royalblue;
     margin:70px;
     padding:100px;
 }
