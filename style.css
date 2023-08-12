@@ -3,19 +3,19 @@ body {
     background-color:yellow;
 }
 a{
-    padding:20px;
-    background-color:white;
-    margin:300px;
-    text-align:center;
-    font-size:50px
+   border-top: 3px solid royalblue;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid royalblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 a:hover {
-    color: yellow;
-    background-color: royalblue;
-    margin:350px;
-    padding:20px;
-    font-size:50;
-    text-decoration:none;
+   text-decoration: none;
+    font-size: 20px;
+    color: navy;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 h1{
