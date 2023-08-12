@@ -3,7 +3,7 @@ body {
     background-color:yellow;
 }
 a{
-    padding:100px;
+    padding:400px;
     background-color:white;
     margin:70px;
     text-align:center;
@@ -12,7 +12,7 @@ a:hover {
     color: yellow;
     background-color: royalblue;
     margin:70px;
-    padding:100px;
+    padding:400px;
 }
 
 h1{
