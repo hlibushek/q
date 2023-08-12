@@ -9,6 +9,8 @@ a{
     border-bottom: 3px solid royalblue;
     padding-top: 20px;
     padding-bottom: 20px;
+    font-size:30px;
+    text-
 }
 a:hover {
    text-decoration: none;
@@ -16,6 +18,7 @@ a:hover {
     color: navy;
     margin-top: 20px;
     margin-bottom: 15px;
+    font-size:30px;
 }
 
 h1{
@@ -24,5 +27,5 @@ h1{
     border-radius:15px;
     margin:300px;
     padding:100px;
-    text:150px;
+    font-size:50px;
 }
