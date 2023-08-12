@@ -5,13 +5,13 @@ body {
 a{
     padding:40px;
     background-color:white;
-    margin:70px;
+    margin:500px;
     text-align:center;
 }
 a:hover {
     color: yellow;
     background-color: royalblue;
-    margin:70px;
+    margin:500px;
     padding:40px;
 }
 
